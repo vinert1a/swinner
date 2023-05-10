@@ -1,3 +1,4 @@
+var data = null;
 const xhr = new XMLHttpRequest();
 xhr.withCredentials = true;
 
